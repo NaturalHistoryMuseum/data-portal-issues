@@ -1,4 +1,4 @@
-# Data Portal Issue Tracker
+# Public Data Portal Issue Tracker
 This repository collects issues for the Natural History Museum (London)'s [Data Portal](https://data.nhm.ac.uk/).
 
 The Data Portal is made up of a number of CKAN extensions and services and therefore this repository provides a central place for issues to be made against the site in general.
